@@ -1,0 +1,11 @@
+D:\STI Handouts\Event-Driven Programming\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe.config
+D:\STI Handouts\Event-Driven Programming\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe
+D:\STI Handouts\Event-Driven Programming\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.pdb
+D:\STI Handouts\Event-Driven Programming\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csprojAssemblyReference.cache
+D:\STI Handouts\Event-Driven Programming\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmConfirmation.resources
+D:\STI Handouts\Event-Driven Programming\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmRegistration.resources
+D:\STI Handouts\Event-Driven Programming\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.Properties.Resources.resources
+D:\STI Handouts\Event-Driven Programming\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.GenerateResource.cache
+D:\STI Handouts\Event-Driven Programming\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.CoreCompileInputs.cache
+D:\STI Handouts\Event-Driven Programming\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.exe
+D:\STI Handouts\Event-Driven Programming\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.pdb
